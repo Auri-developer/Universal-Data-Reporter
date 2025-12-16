@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="UniversalDataReporter.Core/UniversalDataReporter.Core.csproj" />
+  <Project Path="UniversalDataReporter.DataAccess/UniversalDataReporter.DataAccess.csproj" />
+  <Project Path="UniversalDataReporter.UI/UniversalDataReporter.UI.csproj" />
+</Solution>
