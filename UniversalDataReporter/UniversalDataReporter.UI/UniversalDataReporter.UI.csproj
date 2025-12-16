@@ -9,6 +9,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\UniversalDataReporter.Core\UniversalDataReporter.Core.csproj" />
     <ProjectReference Include="..\UniversalDataReporter.DataAccess\UniversalDataReporter.DataAccess.csproj" />
   </ItemGroup>
